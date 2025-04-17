@@ -1,4 +1,5 @@
 State transition testing Makers challenge:
 
-State transition diagram
-State transition table and state transition test case
+1. State transition diagram
+
+2. State transition table and state transition test case
