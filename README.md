@@ -1,4 +1,4 @@
-State transition testing Makers challenge:
+State transition testing for the Makers challenge:
 
 1. State transition diagram
 
